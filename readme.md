@@ -1,8 +1,8 @@
-#这是针对天津财经大学课程编排的程序
-#author：PhoebeZhennan；（物流2002）
-#time：2023/2/24
+# 这是针对天津财经大学课程编排的程序
+# author：PhoebeZhennan；（物流2002）
+# time：2023/2/24
 
-#Part 1
+# Part 1
 
 %%如果你愿意手动将课程信息（信息较少时建议手动），以要求格式（参见Tips）输入到info.txt文件中，则可跳过此部分程序。
 
@@ -11,13 +11,13 @@
 
 但是识别技术还不是非常成熟，需要打开info.txt验证课程信息是否正确
 
-#Part 2
+# Part 2
 
 1.如果课程信息正确，则运行info2ics.py文件，自动将课程编排到events.ics文件中
 2.将events.ics添加到你的日历软件中即可（目前我用的是Google Calendar，似乎没什么问题）
 
 
-#Tips
+# Tips
 0.安装必要的package，比如opencv-python（我现在版本是python3.10，numpy等
 
 1.课表截取范围需要和src.png一致
