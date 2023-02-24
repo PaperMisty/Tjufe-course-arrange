@@ -1,5 +1,5 @@
 # 这是针对天津财经大学课程编排的程序
-## author：PhoebeZhennan；
+## Author：PhoebeZhennan；
 
 
 # Part 1
@@ -18,19 +18,15 @@
 
 
 # Tips
-0.安装必要的package，比如opencv-python（我现在版本是python3.10，numpy等  
+0.安装必要的package，比如opencv-python（我现在版本是python3.10，numpy等）  
 
-1.课表截取范围需要和src.png一致  
+1.课表截取范围需要和src.png一致!!!  
+并且将你的课表命名为src.png作为替换
 
 2.课程信息要求格式(除了XXX其余都需要仔细校对)：  
-[XXXXXXXX]课程名字 老师名字 1-17 二[5XXX]双 N3218  
+XXXXXXXXX]课程名字 老师名字 1-17 二[5XXX]双 N3218  
 比如：  
 [B0320020]智慧物流 刘畅 1-17 四[3-4节] N3229  
-并且  
-程序认为第一行一般是注释，是不计入的
+并且程序认为第一行一般是注释，是不计入的   
 
-3.这里的src.png,tmp.png,info.txt,events.ics均为示例  
-
-4.目前还在测试和完善的阶段，欢迎纠正问题  
-
-5.仅用于学术交流，不支持任何盈利活动
+3.仅用于学术交流，不支持任何盈利活动  
