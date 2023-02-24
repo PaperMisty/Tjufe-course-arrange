@@ -29,3 +29,10 @@ XXXXXXXXX]课程名字 老师名字 1-17 二[5XXX]双 N3218
 并且程序认为第一行一般是注释，是不计入的   
 
 3.仅用于学术交流，不支持任何盈利活动  
+
+# 另外  
+视频演示在bilibili：  
+https://www.bilibili.com/video/BV1AD4y1V7Cv/?vd_source=7b7d83634756c41c79b98f950708f2c4  
+  
+识别做的不好的话，有个精简版的程序，放在博客园了：  
+https://www.cnblogs.com/PaperMisty/  
