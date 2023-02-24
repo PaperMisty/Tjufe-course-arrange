@@ -5,7 +5,7 @@ import ocr
 # 严苛的去噪版本
 
 # 读入图像并转为灰度图像
-src = cv2.imread('src1.png')
+src = cv2.imread('src.png')
 img = cv2.cvtColor(src,cv2.COLOR_BGR2GRAY)
 
 
